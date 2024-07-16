@@ -43,6 +43,7 @@ body {
   left: 20px;
   margin: 0;
   opacity: 0.5;
+  caret-color: transparent;
 }
 .panel.active {
   flex: 5;
